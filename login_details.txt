@@ -1,0 +1,19 @@
+Login details for Notes Sharing Site:
+
+
+Admin Login ---->
+
+username: root
+password: adminroot
+
+
+User Login ----->
+
+username:  user
+password:  userpass
+
+
+
+My Login-->
+username: lodhibharti
+password: jenny123
